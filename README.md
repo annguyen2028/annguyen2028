@@ -1,4 +1,5 @@
-## Introduction
+## This is an overview of An Nguyen's ePortfolio
+# Introduction
 An Nguyen is a sophomore at Northview High School. This portfolio is for her Intro to Software Technology class as she prepare for higher classes relating to computers in the future. An is a part of my school's FRC robotics team. Outside of school, she enjoys club swimming and piano. An's goal is to study in the field of astrophysics and hopefully find a research position. 
 <!--
 **annguyen2028/annguyen2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
